@@ -1,0 +1,39 @@
+#logo{
+}
+
+body{
+  background-color: #ebeff5;
+}
+
+
+#total-orders{
+  background-color: #4cb4c7;
+}
+
+
+#orders-delivered{
+  background-color: #7abecc;
+}
+
+#orders-pending{
+  background-color: #7CD1C0;
+}
+
+/* footer style */
+footer {
+  background-color: #007bff;
+  color: white;
+  font-size: 18px;
+  border-bottom: 3px solid #007bff;
+}
+/* footer style ends*/
+
+/* footer style */
+@media only screen and (max-width: 768px) {
+  footer {
+    font-size: 98% !important;
+    font-weight: light;
+    letter-spacing: 1px;
+  }
+  /* footer style ends */
+}

@@ -1,0 +1,4 @@
+Django==2.1.7
+django-filter==2.2.0
+mysqlclient==1.4.6
+pytz==2019.3
